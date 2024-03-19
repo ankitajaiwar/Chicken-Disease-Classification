@@ -72,6 +72,6 @@ Follow these steps to run the code:
 - Data Version Control (DVC)
 
 ## Contributors
-- Ankita Jaiwar (@ankitajaiwar)
+- Ankita Singh (@ankitajaiwar)
 
 
